@@ -3,7 +3,7 @@
 ## Description
 This is a maze game with three modes : easy, normal and hard. You can choose to compete with the computer or not. Also you can choose single player mode or multiplayer mode.
 
-<img src="./oop_proj_21.gif"/>
+<img src="./oop-proj-21.gif"/>
 
 ## Getting Started
 
