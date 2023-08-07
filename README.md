@@ -12,7 +12,7 @@ Download and run the game
 &nbsp; git clone the game:
 ```
 $ cd ~
-$ git clone git@site.com
+$ git clone git@github.com:ARG-NCTU/oop-proj-21.git
 ```
 Run docker
 ```
