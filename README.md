@@ -8,8 +8,7 @@ This is a maze game with three modes : easy, normal and hard. You can choose to 
 ## Getting Started
 
 ### Ubuntu
-Download and run the game
-&nbsp; git clone the game:
+git clone the game:
 ```
 $ cd ~
 $ git clone git@github.com:ARG-NCTU/oop-proj-21.git
@@ -19,7 +18,7 @@ Run docker
 $ cd oop-proj-21
 $ source docker_run.sh
 ```
-Start hte game
+Start the game
 ```
 $ python3 maze\ game.py
 ```
