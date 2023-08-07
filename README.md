@@ -7,7 +7,7 @@ This is a maze game with three modes : easy, normal and hard. You can choose to 
 
 ## Getting Started
 
-## Ubuntu
+### Ubuntu
 Download and run the game
 &nbsp; git clone the game:
 ```
@@ -24,12 +24,12 @@ Start hte game
 $ python3 maze\ game.py
 ```
 
-## Windows
+### Windows
 Install Anaconda from following site.
 https://docs.anaconda.com/free/anaconda/install/windows/
-### Download oop-proj-21
+#### Download oop-proj-21
 Download oop-proj-21 as a zip, and unzip.
-### activate base env, and start the game
+#### activate base env, and start the game
 You can change "oop_env" to what ever the name you like.
 ```
 $ conda create --name oop_env python=3.8.10
@@ -42,7 +42,7 @@ cd to your oop-proj-proj-21 dir location, and run the game.
 $ cd oop-proj-proj-21
 $ python maze\ game.py
 ```
-### Executing Program
+## Executing Program
 <br />Just run the code you have just downloaded.</br >
 <br />After running the code you would see the main menu. Just press start to start the game.</br >
 <br />After that you would be able to choose the game mode : easy, normal and hard. Just choose a mode you like.</br >
